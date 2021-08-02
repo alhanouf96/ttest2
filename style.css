@@ -170,7 +170,7 @@ background-color: #3c3c3c;
      overflow-x: auto;
    overflow-y:hidden;
    flex-wrap: nowrap;
-     padding-right: 10px;  /*space at the right of bar*/
+     padding-right: 2px;  /*space at the right of bar*/
    
 }
 .singleinfos .singleinfostabs > ul > li {
