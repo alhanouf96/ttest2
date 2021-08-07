@@ -21,7 +21,7 @@ body {
   margin: auto;
   text-align: center;
   font-family: arial;
-background: #fff;
+background-color: #3c3c3c;
 border: none;
 
 }
@@ -121,7 +121,7 @@ font-size: 10px;
         /* Card image loading */
     
         .card__image.loading {
-            hight:200px;
+            hight:500px;
             width: 400px;
         }
        
