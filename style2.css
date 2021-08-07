@@ -13,7 +13,7 @@ overflow-x: hidden;
 body {
   font-family: Cairo;
   font-display: swap;
-  background-color: #3c3c3c;
+  background-color: red;
 }
 
 .card {
