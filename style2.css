@@ -13,7 +13,7 @@ overflow-x: hidden;
 body {
   font-family: Cairo;
   font-display: swap;
-  background-color: red;
+  background-color: #3c3c3c;
 }
 
 .card {
@@ -21,7 +21,7 @@ body {
   margin: auto;
   text-align: center;
   font-family: arial;
-  background-color: red;
+ background-color: #3c3c3c;
 border: none;
 }
 
