@@ -21,7 +21,7 @@ body {
   margin: auto;
   text-align: center;
   font-family: arial;
-  background-color: #fff;
+  background-color: #3c3c3c;
 border: none;
 }
 
@@ -30,6 +30,7 @@ border: none;
 
 
 .container-fluid{
+ 
   margin: auto;
  
    max-width: 500px;
@@ -79,7 +80,7 @@ color: white;
    font-display: swap;
    font-family:Lemonada;
    float: center;
-   padding-top: 10px;
+   padding-top: 5px;
 }
 
 
@@ -122,7 +123,7 @@ font-size: 10px;
         /* Card image loading */
     
         .card__image.loading {
-            hight:500px;
+         
             width: 400px;
         }
        
@@ -134,5 +135,4 @@ font-size: 10px;
             position: relative;
             background-color: #e2e2e2;
         }
-       
        
