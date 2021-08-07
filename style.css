@@ -17,7 +17,7 @@ h5{
  color: white;
   text-align:right;
    
-padding-top: 10px;
+padding-top: 1px;
 
    font-size: 11px;
 
@@ -314,6 +314,7 @@ width:200px;
 }
 
 .footer {
+  font-size: 10px;
   text-align:center;
  padding: 1px;
 color:#d2612a;
